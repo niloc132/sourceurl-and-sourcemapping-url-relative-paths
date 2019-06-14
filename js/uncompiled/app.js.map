@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"./app.min.js",
+"lineCount":1,
+"mappings":"AAAA,IAAMA,IAELC,QAAW,CAACC,CAAD,CAAO,CACjB,IAAAA,KAAA,CAAYA,CADK,CAIlB,IAAA,UAAA,MAAAC,CAAAA,QAAK,EAAG,CACPC,MAAAC,MAAA,CAAa,QAAb,CAAwB,IAAAH,KAAxB,CADO,CAKTC,EAAA,IAAIH,GAAJ,CAAQ,OAAR,CAAAG,OAAA;",
+"sources":["app.js"],
+"names":["App","constructor","name","sayHi","window","alert"]
+}

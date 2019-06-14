@@ -1,0 +1,1 @@
+eval('var App=function(a){this.name=a};App.prototype.sayHi=function(){window.alert("Hello "+this.name)};(new App("Colin")).sayHi();\n//# sourceMappingURL=app.js.map\n//# sourceURL=uncompiled/app.min.js');
